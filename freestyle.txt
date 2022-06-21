@@ -1,0 +1,14 @@
+1-Teste Vocacional --> [Determinar o curso]
+	-
+
+2-Instituições | Vocacional --> [Com o curso escolher instituição: ]
+	-Localização, custo, qualidade de ensino
+
+3-Empresas | Profissional --> [Com a formação escolher a empresa: ]
+	-Areas, estemativa de salários, carreiras
+
+----[Mandar por e-mail, ou , Cadastrar na conta]----
+
+-Eng > disp [mat, fis, qui] --> class: Tech, invenção | 
+-C.S > disp [lp, hist, ...]
+-....
